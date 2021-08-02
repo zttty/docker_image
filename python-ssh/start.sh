@@ -1,0 +1,1 @@
+docker run -idt --name bd -v ./code:/code python-ssh:v1
